@@ -23,7 +23,7 @@ This project involved analyzing a supermarket's sales data to uncover insights o
 **Project Files:**
 - [Excel Dashboard & Analysis](./Supermarket_Sales_Analysis/supermarket_sales.xlsx)
 - [Dashboard Screenshot](./Supermarket_Sales_Analysis/Supermarket%20Sales.png)
-- [Final Report (Word)](./Supermarket_Sales_Analysis/Supermarket_Sales_Data_Analysis_Report.docx)
+- [Final Report (Word)](./Supermarket_Sales_Analysis/Supermarket%20Sales%20Data%20Analysis%20Report.docx)
 
 ---
 
