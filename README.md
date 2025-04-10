@@ -21,9 +21,9 @@ This project involved analyzing a supermarket's sales data to uncover insights o
 - Dashboards included KPIs, monthly trends, peak sales hours, and customer ratings.
 
 **Project Files:**
-- [Excel Dashboard & Analysis](./Supermarket_Sales_Analysis/Supermarket_Sales.xlsx)
+- [Excel Dashboard & Analysis](./Supermarket_Sales_Analysis/supermarket_sales.xlsx)
 - [Dashboard Screenshot](./Supermarket_Sales_Analysis/Supermarket_Sales.png)
-- [Final Report (Word)](./Supermarket_Sales_Analysis/Supermarket_Sales_Report.docx)
+- [Final Report (Word)](./Supermarket_Sales_Analysis/Supermarket_Sales_Data_Analysis_Report.docx)
 
 ---
 
