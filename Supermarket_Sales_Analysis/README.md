@@ -6,6 +6,6 @@ This project analyzes supermarket sales data using Excel to create insightful vi
 - Microsoft Word (for project documentation)
 
 ## Files:
-- **Report**: A detailed report of the analysis (Supermarket_Sales_Report.docx).
+- **Report**: A detailed report of the analysis (Supermarket_Sales_Analysis_Report.docx).
 - **Excel File**: The raw data and dashboard (supermarket_sales.xlsx).
 - **Dashboard Screenshot**: A screenshot of the dashboard (Dashboard_Screenshot.png).
