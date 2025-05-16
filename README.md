@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 
-Welcome to my data analysis portfolio! I'm Ugwulebo-Hillary Sandra Chinonyerem, a data enthusiast passionate about transforming raw data into meaningful insights that drive decisions. Here, you'll find a collection of projects showcasing my skills in Excel, and data storytelling.
+Welcome to my data analysis portfolio! I'm Ugwulebo-Hillary Sandra Chinonyerem, a data enthusiast passionate about transforming raw data into meaningful insights that drive decisions. Here, you'll find a collection of projects showcasing my skills in Excel, SQL, Power Bi and data storytelling.
 
 ---
 
