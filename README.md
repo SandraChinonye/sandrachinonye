@@ -48,9 +48,11 @@ This project explores Adidas sales data across the United States, analyzing reve
 - Insights documented in the final report.
 
 **Project Files**
-- [SQL Code](./Adidas_US_Sales_Analysis/Adidas_SQL_Code.sql)
-- [Project Report (Word)](./Adidas_US_Sales_Analysis/Adidas_Report.docx)
-- [Dashboard (PDF)](./Adidas_US_Sales_Analysis/Adidas_Dashboard.pdf)
+- [SQL Code](./Adidas_US_Sales_Analysis/Adidas%20Sales.sql)
+- [Project Report (Word)](./Adidas_US_Sales_Analysis/Adidas%20US%20Sales%20Analysis.docx)
+- [Dashboard (PDF)](./Adidas_US_Sales_Analysis/Adidas%20US%20Sales%20Analysis%20Dashboard.pdf)
+
+---
 
 ### 3. Cybersecurity Threats Analysis (in progress)
 
