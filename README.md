@@ -27,7 +27,32 @@ This project involved analyzing a supermarket's sales data to uncover insights o
 
 ---
 
-### 2. Cybersecurity Threats Analysis (in progress)
+### 2. Adidas US Sales Analysis
+
+**Tools Used:** Microsoft SQL Server, Microsoft Power Bi, Microsoft Word  
+**Dataset Source:** Kaggle
+
+This project explores Adidas sales data across the United States, analyzing revenue, profit, orders, and performance across different states and product categories.
+
+**Key KPIs:**
+- **Total Revenue:** $899.90M  
+- **Net Profit:** $332.14M  
+- **Total Orders:** 9,648  
+- **Total Units Sold:** 2.48M  
+- **Average Order Value:** $93.27K  
+- **Profit Margin:** 36.91%
+
+**Highlights:**
+- Top-performing product lines and states identified using SQL queries.
+- Interactive dashboards built in Power BI to visualize key trends.
+- Insights documented in the final report.
+
+**Project Files**
+- [SQL Code](./Adidas_US_Sales_Analysis/Adidas_SQL_Code.sql)
+- [Project Report (Word)](./Adidas_US_Sales_Analysis/Adidas_Report.docx)
+- [Dashboard (PDF)](./Adidas_US_Sales_Analysis/Adidas_Dashboard.pdf)
+
+### 3. Cybersecurity Threats Analysis (in progress)
 
 **Tools Used:** Microsoft Excel  
 **Dataset:** Global cybersecurity threat dataset (2015–2024)
