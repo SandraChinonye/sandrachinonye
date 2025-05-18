@@ -8,7 +8,7 @@ Welcome to my data analysis portfolio! I'm Ugwulebo-Hillary Sandra Chinonyerem, 
 
 ### 1. Supermarket Sales Analysis
 
-**Tools Used:** Microsoft Excel, Word  
+**Tools Used:** Microsoft Excel, Microsoft Word  
 **Dataset Source:** Kaggle
 
 This project involved analyzing a supermarket's sales data to uncover insights on revenue, profit, and customer behavior across different product lines and cities.
@@ -54,14 +54,23 @@ This project explores Adidas sales data across the United States, analyzing reve
 
 ---
 
-### 3. Cybersecurity Threats Analysis (in progress)
+### 3. Cybersecurity Threat Analysis
 
-**Tools Used:** Microsoft Excel  
-**Dataset:** Global cybersecurity threat dataset (2015–2024)
+**Tools Used:** Microsoft Excel, Microsoft Word
+**Dataset  Source:** Kaggle
 
-This analysis focuses on financial loss and users affected across various cyberattack types, countries, industries, and years. It includes donut charts, KPIs, bar/column charts, and more — all within a red-themed dashboard design.
+This project analyzes global cybersecurity threats over a 10-year span, focusing on attack types, financial losses, user impact, and industry vulnerabilities. The dataset includes various threat categories such as phishing, ransomware, DDoS, and more.
 
-**(Full write-up coming soon...)**
+**Key Insights:**
+- **DDoS** caused the highest financial loss globally and affected the largest number of users.
+- **IT** and **Banking** were the most targeted industries.  
+- The **UK** faced the highest number of losses.  
+- Attacks peaked in **2017**, with a slight decline observed afterward.
+
+**Project Files:**
+- [Excel Dashboard & Analysis](./Cybersecurity_Threat_Analysis/Global_Cybersecurity_Threats_2015-2024.xlsx)
+- [Dashboard Screenshot](./Cybersecurity_Threat_Analysis/Cybersecurity%20Threat%20Dashboard1.png)
+- [Final Report (Word)](./Cybersecurity_Threat_Analysis/Global%20Cybersecurity%20Threat%20Analysis%20Report.docx)
 
 ---
 
