@@ -74,6 +74,18 @@ This project analyzes global cybersecurity threats over a 10-year span, focusing
 
 ---
 
+### 4. Fintech Performance Analytics
+
+**Tools Used:** Microsoft Excel, Microsoft Word
+**Dataset  Source:** Kaggle
+
+For this project, I analyzed a dataset from a fictional fintech startup exploring how users behaviour differ across products, platforms, age groups and locations.
+
+**Key Insights:**
+
+
+**Project Files:**
+
 ## About Me
 
 I’m a data analyst who enjoys cleaning messy data, digging for patterns, and turning numbers into visual stories. I’m currently growing my portfolio while learning SQL and improving my visualization skills.
